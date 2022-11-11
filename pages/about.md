@@ -38,6 +38,7 @@ Isis Beleño, Maestría en Humandidades Digitales
 Santiago Rangel, Departamento de Ingeniería de Sistemas
 Liliana Cobos, Centro de Estudios en Periodismo
 David Echeverry, Departamento de Historia del Arte
+Santiago Velasco, Departamento de Historia
 
 
 
